@@ -1,0 +1,9 @@
+{
+	"name": "factoryanjanazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4e114e66-0169-4e3a-a725-2079145723bc",
+		"tenantId": "d0107564-c9cb-4898-8912-1abc64cd0520"
+	}
+}
