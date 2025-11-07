@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "factoryanjanazureproject"
+		},
+		"AzureDataLakeStorage_accountKey": {
+			"value": ""
+		},
+		"AzureSqldb_password": {
+			"value": ""
+		},
+		"AzureDataLakeStorage_properties_typeProperties_url": {
+			"value": "https://storageanjanazureproject.dfs.core.windows.net/"
+		},
+		"AzureSqldb_properties_typeProperties_server": {
+			"value": "anjanazureprojectserver.database.windows.net"
+		},
+		"AzureSqldb_properties_typeProperties_database": {
+			"value": "azureprojectdbanjan"
+		},
+		"AzureSqldb_properties_typeProperties_userName": {
+			"value": "adminanjan"
+		}
+	}
+}
